@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {
 	int a,b,c,c1,c2,c3;
@@ -33,6 +33,6 @@ int main()
 	printf ("\n\nIsosceles Triangles\n\n" );
 	else
 	printf ("\n\nnot a Triangle\n\n");
-	getch();
+//	getch();
 }
 
